@@ -1,6 +1,6 @@
 .container {
-  border: 1px solid red;
   height: 765px;
+  position: relative;
 }
 
 .container > h2 {
@@ -8,3 +8,47 @@
   font-weight: 300;
   color: var(--gray_1);
 }
+
+.container > button {
+  right: 0;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  height: 540px;
+  gap: 30px;
+  margin: 60px 0 30px 0;
+  /* position: relative; */
+}
+
+.subTitle {
+  position: absolute;
+  background: var(--black_2);
+  width: 570px;
+  height: 255px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 79px;
+  gap: 9px;
+}
+
+.subTitle :nth-child(1) {
+  color: var(--secondary);
+  font-size: 64px;
+  font-weight: 700;
+  max-width: 413px;
+}
+
+.subTitle :nth-child(2) {
+  color: var(--secondary);
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+

@@ -1,0 +1,46 @@
+.smallLeft,
+.smallRight,
+.primary,
+.secondary {
+  cursor: pointer;
+}
+
+.smallLeft,
+.smallRight {
+  height: 53px;
+  width: 53px;
+  border: 1px solid var(--gray_2);
+}
+
+.smallLeft {
+  margin-right: 23px;
+  background-color: var(--secondary);
+}
+
+.smallRight {
+  background-color: var(--gray_3);
+}
+
+.primary,
+.secondary {
+  position: absolute;
+  border: none;
+  width: 222px;
+  height: 71px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.primary {
+  background-color: var(--secondary);
+}
+
+.secondary {
+  background-color: var(--primary);
+  color: var(--secondary);
+}

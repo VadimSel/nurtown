@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 102px;
+}
+
+.header__links {
+  display: flex;
+  gap: 60px;
+}
+
+.item, .item1 {
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+}
+
+.item1 {
+  border-top: 1px solid var(--primary);
+  border-bottom: 1px solid var(--primary);
+  padding-bottom: 1px;
+}

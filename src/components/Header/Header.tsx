@@ -6,7 +6,7 @@ export const Header = () => {
 	const items = ["Главная", "Галерея", "Проекты", "Сертифкаты", "Контакты"];
 
 	return (
-		<div className={s.container}>
+		<header className={s.container}>
 			<img src={logo} alt="logo" />
 			<div className={s.header__links}>
 				{items.map((item, i) => {
@@ -17,6 +17,6 @@ export const Header = () => {
 					);
 				})}
 			</div>
-		</div>
+		</header>
 	);
 };

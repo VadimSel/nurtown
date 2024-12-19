@@ -1,4 +1,5 @@
 import { About } from "../About/About";
+import { Contact } from "../Contact/Contact";
 import { Goals } from "../Goals/Goals";
 import { Projects } from "../Projects/Projects";
 import { Title } from "../Title/Title";
@@ -11,6 +12,7 @@ export const HomePage = () => {
       <About/>
       <Goals/>
       <Projects/>
+      <Contact/>
 		</div>
 	);
 };

@@ -10,10 +10,10 @@ export const Contact = () => {
 				<div className={s.formContainer}>
 					<form action="" method="post">
 						<input type="text" name="name" placeholder="Имя" />
-						<input type="tel" name="phone" placeholder="Номер телефона" required />
-						<input type="email" name="email" placeholder="E-mail" required />
+						<input type="tel" name="phone" placeholder="Номер телефона *" required />
+						<input type="email" name="email" placeholder="E-mail *" required />
 						<input type="text" name="product" placeholder="Интересующий товар/услуга" />
-						<textarea name="message" placeholder="Сообщение"></textarea>
+						<textarea name="message" placeholder="Сообщение *"></textarea>
 					</form>
           <img src={contactImage} alt="img" />
 				</div>

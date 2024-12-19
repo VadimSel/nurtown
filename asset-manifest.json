@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/nurtown/static/css/main.a1f190ed.css",
+    "main.js": "/nurtown/static/js/main.6fcc3f13.js",
+    "static/js/453.c5f7f873.chunk.js": "/nurtown/static/js/453.c5f7f873.chunk.js",
+    "static/media/TT-Hoves-Pro-Trial-Variable.ttf": "/nurtown/static/media/TT-Hoves-Pro-Trial-Variable.d4f2ca1a863a42dc66cf.ttf",
+    "static/media/Rectangle 6.png": "/nurtown/static/media/Rectangle 6.5508f88619b85e5a0923.png",
+    "static/media/projects_4.png": "/nurtown/static/media/projects_4.6083229f60d511200955.png",
+    "static/media/projects_2.png": "/nurtown/static/media/projects_2.f823937eac9f2b1cfc15.png",
+    "static/media/contact.png": "/nurtown/static/media/contact.22f11717bd11a31749ba.png",
+    "static/media/projects_5.png": "/nurtown/static/media/projects_5.c7e064488e9672f7f057.png",
+    "static/media/projects_3.png": "/nurtown/static/media/projects_3.33ee686e2e44d8b9f664.png",
+    "static/media/about(3).png": "/nurtown/static/media/about(3).3c766f1a53241e8dd7d6.png",
+    "static/media/projects_1.png": "/nurtown/static/media/projects_1.a286cf4ac6e741e0e768.png",
+    "static/media/about(1).png": "/nurtown/static/media/about(1).f18e48825805f18cde17.png",
+    "static/media/SF-Pro-Display-Black.woff2": "/nurtown/static/media/SF-Pro-Display-Black.eeb83a5991a75943da32.woff2",
+    "static/media/about(2).png": "/nurtown/static/media/about(2).4bd631ccf1cb0b635ff2.png",
+    "static/media/logo.svg": "/nurtown/static/media/logo.d1357366cc21fec9b6368eaae833c0c1.svg",
+    "static/media/phone.svg": "/nurtown/static/media/phone.d2c3bb8b76f7540087b21e74278b10b3.svg",
+    "static/media/logoWhite.svg": "/nurtown/static/media/logoWhite.793d5c8056074b5dce2ca721e5717c0b.svg",
+    "static/media/pininterest.svg": "/nurtown/static/media/pininterest.14da4fd1b572e6f052d22867e5efbd30.svg",
+    "static/media/twitter.svg": "/nurtown/static/media/twitter.ce3d681f3fbb253335b18aefe1c3afe6.svg",
+    "static/media/Linked In.svg": "/nurtown/static/media/Linked In.e97ca5cfe74280644c61835e606061ae.svg",
+    "static/media/location.svg": "/nurtown/static/media/location.b37a64142d1812dab95b86c10173a7bc.svg",
+    "static/media/mail.svg": "/nurtown/static/media/mail.f89736e3d11e4cf40e0cd95f709f033b.svg",
+    "static/media/arrow-right-white.svg": "/nurtown/static/media/arrow-right-white.457ceb30bd2ba7c928135d4374ff9ecc.svg",
+    "static/media/arrow-right.svg": "/nurtown/static/media/arrow-right.ed452594b998d5ad6c0d38b3710f0d47.svg",
+    "index.html": "/nurtown/index.html",
+    "static/media/arrow-left.svg": "/nurtown/static/media/arrow-left.9c37b2c87c457d148fa3ccb38ab08242.svg",
+    "static/media/facebook.svg": "/nurtown/static/media/facebook.d90e6f3786fc929f00d6ce7eaa223e04.svg",
+    "static/media/line.svg": "/nurtown/static/media/line.f6a7e2a64236826bad98ee530b5f5988.svg",
+    "static/media/bigLine.svg": "/nurtown/static/media/bigLine.1bcc872a64ba09760967447c8c51120a.svg",
+    "main.a1f190ed.css.map": "/nurtown/static/css/main.a1f190ed.css.map",
+    "main.6fcc3f13.js.map": "/nurtown/static/js/main.6fcc3f13.js.map",
+    "453.c5f7f873.chunk.js.map": "/nurtown/static/js/453.c5f7f873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f190ed.css",
+    "static/js/main.6fcc3f13.js"
+  ]
+}
